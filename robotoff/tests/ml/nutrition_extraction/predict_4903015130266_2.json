@@ -11,8 +11,8 @@
             "char_start": 106,
             "char_end": 111
         },
-        "energy_kcal_serving": {
-            "entity": "energy_kcal_serving",
+        "energy-kcal_serving": {
+            "entity": "energy-kcal_serving",
             "text": "310",
             "value": "310",
             "unit": "kcal",
@@ -33,8 +33,8 @@
             "char_start": 136,
             "char_end": 143
         },
-        "saturated_fat_serving": {
-            "entity": "saturated_fat_serving",
+        "saturated-fat_serving": {
+            "entity": "saturated-fat_serving",
             "text": "0 g",
             "value": "0",
             "unit": "g",
@@ -44,8 +44,8 @@
             "char_start": 164,
             "char_end": 168
         },
-        "trans_fat_serving": {
-            "entity": "trans_fat_serving",
+        "trans-fat_serving": {
+            "entity": "trans-fat_serving",
             "text": "Og",
             "value": "0",
             "unit": "g",
@@ -1771,7 +1771,7 @@
                 "valid": true
             },
             {
-                "entity": "energy_kcal_serving",
+                "entity": "energy-kcal_serving",
                 "text": "310",
                 "value": "310",
                 "unit": "kcal",
@@ -1795,7 +1795,7 @@
                 "valid": true
             },
             {
-                "entity": "saturated_fat_serving",
+                "entity": "saturated-fat_serving",
                 "text": "0 g",
                 "value": "0",
                 "unit": "g",
@@ -1807,7 +1807,7 @@
                 "valid": true
             },
             {
-                "entity": "trans_fat_serving",
+                "entity": "trans-fat_serving",
                 "text": "Og",
                 "value": "0",
                 "unit": "g",

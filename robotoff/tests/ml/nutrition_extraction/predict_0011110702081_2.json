@@ -11,8 +11,8 @@
             "char_start": 68,
             "char_end": 75
         },
-        "energy_kcal_serving": {
-            "entity": "energy_kcal_serving",
+        "energy-kcal_serving": {
+            "entity": "energy-kcal_serving",
             "text": "15",
             "value": "15",
             "unit": "kcal",
@@ -66,8 +66,8 @@
             "char_start": 189,
             "char_end": 192
         },
-        "added_sugars_serving": {
-            "entity": "added_sugars_serving",
+        "added-sugars_serving": {
+            "entity": "added-sugars_serving",
             "text": "2g",
             "value": "2",
             "unit": "g",
@@ -88,8 +88,8 @@
             "char_start": 225,
             "char_end": 228
         },
-        "vitamin_d_serving": {
-            "entity": "vitamin_d_serving",
+        "vitamin-d_serving": {
+            "entity": "vitamin-d_serving",
             "text": "Omcg",
             "value": "0",
             "unit": "\u00b5g",
@@ -710,7 +710,7 @@
                 "valid": true
             },
             {
-                "entity": "energy_kcal_serving",
+                "entity": "energy-kcal_serving",
                 "text": "15",
                 "value": "15",
                 "unit": "kcal",
@@ -770,7 +770,7 @@
                 "valid": true
             },
             {
-                "entity": "added_sugars_serving",
+                "entity": "added-sugars_serving",
                 "text": "2g",
                 "value": "2",
                 "unit": "g",
@@ -794,7 +794,7 @@
                 "valid": true
             },
             {
-                "entity": "vitamin_d_serving",
+                "entity": "vitamin-d_serving",
                 "text": "Omcg",
                 "value": "0",
                 "unit": "\u00b5g",
