@@ -5,7 +5,7 @@
             "text": "58.5g",
             "value": "58.5g",
             "unit": null,
-            "score": 0.9985449314117432,
+            "score": 0.9987491369247437,
             "start": 18,
             "end": 19,
             "char_start": 106,
@@ -16,7 +16,7 @@
             "text": "310",
             "value": "310",
             "unit": "kcal",
-            "score": 0.9981741905212402,
+            "score": 0.9976129531860352,
             "start": 21,
             "end": 22,
             "char_start": 115,
@@ -27,7 +27,7 @@
             "text": "15.7 g",
             "value": "15.7",
             "unit": "g",
-            "score": 0.997393012046814,
+            "score": 0.9983221888542175,
             "start": 26,
             "end": 28,
             "char_start": 136,
@@ -38,7 +38,7 @@
             "text": "0 g",
             "value": "0",
             "unit": "g",
-            "score": 0.9974648952484131,
+            "score": 0.9964990615844727,
             "start": 32,
             "end": 34,
             "char_start": 164,
@@ -49,7 +49,7 @@
             "text": "Og",
             "value": "0",
             "unit": "g",
-            "score": 0.9854249358177185,
+            "score": 0.9854259490966797,
             "start": 38,
             "end": 39,
             "char_start": 184,
@@ -60,7 +60,7 @@
             "text": "Omg",
             "value": "0",
             "unit": "mg",
-            "score": 0.9888084530830383,
+            "score": 0.9858530759811401,
             "start": 40,
             "end": 41,
             "char_start": 201,
@@ -71,7 +71,7 @@
             "text": "16mg",
             "value": "16",
             "unit": "mg",
-            "score": 0.9897588491439819,
+            "score": 0.9882262349128723,
             "start": 44,
             "end": 45,
             "char_start": 218,
@@ -82,7 +82,7 @@
             "text": "39 g",
             "value": "39",
             "unit": "g",
-            "score": 0.9943812489509583,
+            "score": 0.9979863166809082,
             "start": 49,
             "end": 51,
             "char_start": 248,
@@ -93,7 +93,7 @@
             "text": "0 g",
             "value": "0",
             "unit": "g",
-            "score": 0.9943338632583618,
+            "score": 0.9956098198890686,
             "start": 55,
             "end": 57,
             "char_start": 274,
@@ -104,7 +104,7 @@
             "text": "20g",
             "value": "20",
             "unit": "g",
-            "score": 0.99689120054245,
+            "score": 0.9973345994949341,
             "start": 61,
             "end": 62,
             "char_start": 297,
@@ -115,7 +115,7 @@
             "text": "3.1 g",
             "value": "3.1",
             "unit": "g",
-            "score": 0.9976000189781189,
+            "score": 0.9973764419555664,
             "start": 64,
             "end": 66,
             "char_start": 307,
@@ -127,7 +127,7 @@
             {
                 "word": "Nutrition ",
                 "entity": "O",
-                "score": 0.9999641180038452,
+                "score": 0.9999654293060303,
                 "index": 0,
                 "char_start": 0,
                 "char_end": 10
@@ -135,7 +135,7 @@
             {
                 "word": "Facts ",
                 "entity": "O",
-                "score": 0.9999649524688721,
+                "score": 0.9999668598175049,
                 "index": 1,
                 "char_start": 10,
                 "char_end": 16
@@ -143,7 +143,7 @@
             {
                 "word": "2 ",
                 "entity": "O",
-                "score": 0.9999638795852661,
+                "score": 0.9999668598175049,
                 "index": 2,
                 "char_start": 16,
                 "char_end": 18
@@ -151,7 +151,7 @@
             {
                 "word": "serving ",
                 "entity": "O",
-                "score": 0.9999644756317139,
+                "score": 0.9999661445617676,
                 "index": 3,
                 "char_start": 18,
                 "char_end": 26
@@ -159,7 +159,7 @@
             {
                 "word": "per ",
                 "entity": "O",
-                "score": 0.9999643564224243,
+                "score": 0.9999673366546631,
                 "index": 4,
                 "char_start": 26,
                 "char_end": 30
@@ -167,7 +167,7 @@
             {
                 "word": "container ",
                 "entity": "O",
-                "score": 0.9999591112136841,
+                "score": 0.9999657869338989,
                 "index": 5,
                 "char_start": 30,
                 "char_end": 40
@@ -175,7 +175,7 @@
             {
                 "word": "Serving ",
                 "entity": "O",
-                "score": 0.9999635219573975,
+                "score": 0.9999654293060303,
                 "index": 6,
                 "char_start": 40,
                 "char_end": 48
@@ -183,7 +183,7 @@
             {
                 "word": "Size\n",
                 "entity": "O",
-                "score": 0.9999591112136841,
+                "score": 0.999966025352478,
                 "index": 7,
                 "char_start": 48,
                 "char_end": 53
@@ -191,7 +191,7 @@
             {
                 "word": "Amount ",
                 "entity": "O",
-                "score": 0.9999574422836304,
+                "score": 0.9999641180038452,
                 "index": 8,
                 "char_start": 53,
                 "char_end": 60
@@ -199,7 +199,7 @@
             {
                 "word": "per ",
                 "entity": "O",
-                "score": 0.9999634027481079,
+                "score": 0.9999654293060303,
                 "index": 9,
                 "char_start": 60,
                 "char_end": 64
@@ -207,7 +207,7 @@
             {
                 "word": "serving ",
                 "entity": "O",
-                "score": 0.9999617338180542,
+                "score": 0.9999655485153198,
                 "index": 10,
                 "char_start": 64,
                 "char_end": 72
@@ -215,7 +215,7 @@
             {
                 "word": "Calories\n",
                 "entity": "O",
-                "score": 0.9999539852142334,
+                "score": 0.9999603033065796,
                 "index": 11,
                 "char_start": 72,
                 "char_end": 81
@@ -223,7 +223,7 @@
             {
                 "word": "Total ",
                 "entity": "O",
-                "score": 0.9999573230743408,
+                "score": 0.9999624490737915,
                 "index": 12,
                 "char_start": 82,
                 "char_end": 88
@@ -231,7 +231,7 @@
             {
                 "word": "Fat\n",
                 "entity": "O",
-                "score": 0.9999573230743408,
+                "score": 0.9999604225158691,
                 "index": 13,
                 "char_start": 88,
                 "char_end": 92
@@ -239,7 +239,7 @@
             {
                 "word": "1 ",
                 "entity": "O",
-                "score": 0.9999464750289917,
+                "score": 0.9999438524246216,
                 "index": 14,
                 "char_start": 93,
                 "char_end": 95
@@ -247,7 +247,7 @@
             {
                 "word": "bag ",
                 "entity": "O",
-                "score": 0.9999459981918335,
+                "score": 0.99993896484375,
                 "index": 15,
                 "char_start": 95,
                 "char_end": 99
@@ -255,7 +255,7 @@
             {
                 "word": "(",
                 "entity": "O",
-                "score": 0.9999611377716064,
+                "score": 0.9999634027481079,
                 "index": 16,
                 "char_start": 99,
                 "char_end": 100
@@ -263,7 +263,7 @@
             {
                 "word": "about ",
                 "entity": "O",
-                "score": 0.9999315738677979,
+                "score": 0.9999598264694214,
                 "index": 17,
                 "char_start": 100,
                 "char_end": 106
@@ -271,7 +271,7 @@
             {
                 "word": "58.5g",
                 "entity": "SERVING_SIZE",
-                "score": 0.9985449314117432,
+                "score": 0.9987491369247437,
                 "index": 18,
                 "char_start": 106,
                 "char_end": 111
@@ -279,7 +279,7 @@
             {
                 "word": ".",
                 "entity": "O",
-                "score": 0.9999538660049438,
+                "score": 0.9999544620513916,
                 "index": 19,
                 "char_start": 111,
                 "char_end": 112
@@ -287,7 +287,7 @@
             {
                 "word": ")\n",
                 "entity": "O",
-                "score": 0.999946117401123,
+                "score": 0.9999561309814453,
                 "index": 20,
                 "char_start": 112,
                 "char_end": 114
@@ -295,7 +295,7 @@
             {
                 "word": "310\n",
                 "entity": "ENERGY_KCAL_SERVING",
-                "score": 0.9981741905212402,
+                "score": 0.9976129531860352,
                 "index": 21,
                 "char_start": 115,
                 "char_end": 119
@@ -303,7 +303,7 @@
             {
                 "word": "% ",
                 "entity": "O",
-                "score": 0.9999604225158691,
+                "score": 0.9999616146087646,
                 "index": 22,
                 "char_start": 120,
                 "char_end": 122
@@ -311,7 +311,7 @@
             {
                 "word": "Daily ",
                 "entity": "O",
-                "score": 0.9999610185623169,
+                "score": 0.9999648332595825,
                 "index": 23,
                 "char_start": 122,
                 "char_end": 128
@@ -319,7 +319,7 @@
             {
                 "word": "Value",
                 "entity": "O",
-                "score": 0.9999635219573975,
+                "score": 0.9999661445617676,
                 "index": 24,
                 "char_start": 128,
                 "char_end": 133
@@ -327,7 +327,7 @@
             {
                 "word": "*\n",
                 "entity": "O",
-                "score": 0.9999613761901855,
+                "score": 0.9999655485153198,
                 "index": 25,
                 "char_start": 133,
                 "char_end": 135
@@ -335,7 +335,7 @@
             {
                 "word": "15.7 ",
                 "entity": "FAT_SERVING",
-                "score": 0.997393012046814,
+                "score": 0.9983221888542175,
                 "index": 26,
                 "char_start": 136,
                 "char_end": 141
@@ -343,7 +343,7 @@
             {
                 "word": "g\n",
                 "entity": "FAT_SERVING",
-                "score": 0.996696949005127,
+                "score": 0.9972341656684875,
                 "index": 27,
                 "char_start": 141,
                 "char_end": 143
@@ -351,7 +351,7 @@
             {
                 "word": "20",
                 "entity": "O",
-                "score": 0.9999635219573975,
+                "score": 0.9999642372131348,
                 "index": 28,
                 "char_start": 144,
                 "char_end": 146
@@ -359,7 +359,7 @@
             {
                 "word": "%\n",
                 "entity": "O",
-                "score": 0.9999643564224243,
+                "score": 0.999964714050293,
                 "index": 29,
                 "char_start": 146,
                 "char_end": 148
@@ -367,7 +367,7 @@
             {
                 "word": "Saturated ",
                 "entity": "O",
-                "score": 0.9999557733535767,
+                "score": 0.9999594688415527,
                 "index": 30,
                 "char_start": 149,
                 "char_end": 159
@@ -375,7 +375,7 @@
             {
                 "word": "Fat\n",
                 "entity": "O",
-                "score": 0.9999476671218872,
+                "score": 0.999955415725708,
                 "index": 31,
                 "char_start": 159,
                 "char_end": 163
@@ -383,7 +383,7 @@
             {
                 "word": "0 ",
                 "entity": "SATURATED_FAT_SERVING",
-                "score": 0.9974648952484131,
+                "score": 0.9964990615844727,
                 "index": 32,
                 "char_start": 164,
                 "char_end": 166
@@ -391,7 +391,7 @@
             {
                 "word": "g\n",
                 "entity": "SATURATED_FAT_SERVING",
-                "score": 0.9964103102684021,
+                "score": 0.9953097701072693,
                 "index": 33,
                 "char_start": 166,
                 "char_end": 168
@@ -399,7 +399,7 @@
             {
                 "word": "0",
                 "entity": "O",
-                "score": 0.9999622106552124,
+                "score": 0.9999637603759766,
                 "index": 34,
                 "char_start": 169,
                 "char_end": 170
@@ -407,7 +407,7 @@
             {
                 "word": "%\n",
                 "entity": "O",
-                "score": 0.9999628067016602,
+                "score": 0.9999644756317139,
                 "index": 35,
                 "char_start": 170,
                 "char_end": 172
@@ -415,7 +415,7 @@
             {
                 "word": "Trans ",
                 "entity": "O",
-                "score": 0.999900221824646,
+                "score": 0.9999520778656006,
                 "index": 36,
                 "char_start": 173,
                 "char_end": 179
@@ -423,7 +423,7 @@
             {
                 "word": "Fat\n",
                 "entity": "O",
-                "score": 0.999934196472168,
+                "score": 0.9999479055404663,
                 "index": 37,
                 "char_start": 179,
                 "char_end": 183
@@ -431,7 +431,7 @@
             {
                 "word": "Og\n",
                 "entity": "TRANS_FAT_SERVING",
-                "score": 0.9854249358177185,
+                "score": 0.9854259490966797,
                 "index": 38,
                 "char_start": 184,
                 "char_end": 187
@@ -439,7 +439,7 @@
             {
                 "word": "Cholesterol\n",
                 "entity": "O",
-                "score": 0.9999490976333618,
+                "score": 0.9999558925628662,
                 "index": 39,
                 "char_start": 188,
                 "char_end": 200
@@ -447,7 +447,7 @@
             {
                 "word": "Omg\n",
                 "entity": "CHOLESTEROL_SERVING",
-                "score": 0.9888084530830383,
+                "score": 0.9858530759811401,
                 "index": 40,
                 "char_start": 201,
                 "char_end": 205
@@ -455,7 +455,7 @@
             {
                 "word": "0",
                 "entity": "O",
-                "score": 0.9999580383300781,
+                "score": 0.9999620914459229,
                 "index": 41,
                 "char_start": 206,
                 "char_end": 207
@@ -463,7 +463,7 @@
             {
                 "word": "%\n",
                 "entity": "O",
-                "score": 0.9999591112136841,
+                "score": 0.9999630451202393,
                 "index": 42,
                 "char_start": 207,
                 "char_end": 209
@@ -471,7 +471,7 @@
             {
                 "word": "Sodium\n",
                 "entity": "O",
-                "score": 0.9999462366104126,
+                "score": 0.9999557733535767,
                 "index": 43,
                 "char_start": 210,
                 "char_end": 217
@@ -479,7 +479,7 @@
             {
                 "word": "16mg\n",
                 "entity": "SODIUM_SERVING",
-                "score": 0.9897588491439819,
+                "score": 0.9882262349128723,
                 "index": 44,
                 "char_start": 218,
                 "char_end": 223
@@ -487,7 +487,7 @@
             {
                 "word": "3",
                 "entity": "O",
-                "score": 0.9999567270278931,
+                "score": 0.9999617338180542,
                 "index": 45,
                 "char_start": 224,
                 "char_end": 225
@@ -495,7 +495,7 @@
             {
                 "word": "%\n",
                 "entity": "O",
-                "score": 0.9999579191207886,
+                "score": 0.9999632835388184,
                 "index": 46,
                 "char_start": 225,
                 "char_end": 227
@@ -503,7 +503,7 @@
             {
                 "word": "Total ",
                 "entity": "O",
-                "score": 0.9999566078186035,
+                "score": 0.9999616146087646,
                 "index": 47,
                 "char_start": 228,
                 "char_end": 234
@@ -511,7 +511,7 @@
             {
                 "word": "Carbohydrate\n",
                 "entity": "O",
-                "score": 0.9999488592147827,
+                "score": 0.9999545812606812,
                 "index": 48,
                 "char_start": 234,
                 "char_end": 247
@@ -519,7 +519,7 @@
             {
                 "word": "39 ",
                 "entity": "CARBOHYDRATES_SERVING",
-                "score": 0.9943812489509583,
+                "score": 0.9979863166809082,
                 "index": 49,
                 "char_start": 248,
                 "char_end": 251
@@ -527,7 +527,7 @@
             {
                 "word": "g\n",
                 "entity": "CARBOHYDRATES_SERVING",
-                "score": 0.9863331913948059,
+                "score": 0.9959723353385925,
                 "index": 50,
                 "char_start": 251,
                 "char_end": 253
@@ -535,7 +535,7 @@
             {
                 "word": "14",
                 "entity": "O",
-                "score": 0.999958872795105,
+                "score": 0.999961256980896,
                 "index": 51,
                 "char_start": 254,
                 "char_end": 256
@@ -543,7 +543,7 @@
             {
                 "word": "%\n",
                 "entity": "O",
-                "score": 0.9999605417251587,
+                "score": 0.9999630451202393,
                 "index": 52,
                 "char_start": 256,
                 "char_end": 258
@@ -551,7 +551,7 @@
             {
                 "word": "Dietary ",
                 "entity": "O",
-                "score": 0.9999607801437378,
+                "score": 0.9999622106552124,
                 "index": 53,
                 "char_start": 259,
                 "char_end": 267
@@ -559,7 +559,7 @@
             {
                 "word": "Fiber\n",
                 "entity": "O",
-                "score": 0.9999562501907349,
+                "score": 0.9999632835388184,
                 "index": 54,
                 "char_start": 267,
                 "char_end": 273
@@ -567,7 +567,7 @@
             {
                 "word": "0 ",
                 "entity": "FIBER_SERVING",
-                "score": 0.9943338632583618,
+                "score": 0.9956098198890686,
                 "index": 55,
                 "char_start": 274,
                 "char_end": 276
@@ -575,7 +575,7 @@
             {
                 "word": "g\n",
                 "entity": "FIBER_SERVING",
-                "score": 0.987165629863739,
+                "score": 0.9911012053489685,
                 "index": 56,
                 "char_start": 276,
                 "char_end": 278
@@ -583,7 +583,7 @@
             {
                 "word": "0",
                 "entity": "O",
-                "score": 0.9999599456787109,
+                "score": 0.9999631643295288,
                 "index": 57,
                 "char_start": 279,
                 "char_end": 280
@@ -591,7 +591,7 @@
             {
                 "word": "%\n",
                 "entity": "O",
-                "score": 0.99996018409729,
+                "score": 0.999963641166687,
                 "index": 58,
                 "char_start": 280,
                 "char_end": 282
@@ -599,7 +599,7 @@
             {
                 "word": "Total ",
                 "entity": "O",
-                "score": 0.999956488609314,
+                "score": 0.9999616146087646,
                 "index": 59,
                 "char_start": 283,
                 "char_end": 289
@@ -607,7 +607,7 @@
             {
                 "word": "Sugars\n",
                 "entity": "O",
-                "score": 0.9999359846115112,
+                "score": 0.9999505281448364,
                 "index": 60,
                 "char_start": 289,
                 "char_end": 296
@@ -615,7 +615,7 @@
             {
                 "word": "20g\n",
                 "entity": "SUGARS_SERVING",
-                "score": 0.99689120054245,
+                "score": 0.9973345994949341,
                 "index": 61,
                 "char_start": 297,
                 "char_end": 301
@@ -623,7 +623,7 @@
             {
                 "word": "40",
                 "entity": "O",
-                "score": 0.9999597072601318,
+                "score": 0.9999632835388184,
                 "index": 62,
                 "char_start": 302,
                 "char_end": 304
@@ -631,7 +631,7 @@
             {
                 "word": "%\n",
                 "entity": "O",
-                "score": 0.9999600648880005,
+                "score": 0.9999638795852661,
                 "index": 63,
                 "char_start": 304,
                 "char_end": 306
@@ -639,7 +639,7 @@
             {
                 "word": "3.1 ",
                 "entity": "PROTEINS_SERVING",
-                "score": 0.9976000189781189,
+                "score": 0.9973764419555664,
                 "index": 64,
                 "char_start": 307,
                 "char_end": 311
@@ -647,7 +647,7 @@
             {
                 "word": "g\n",
                 "entity": "PROTEINS_SERVING",
-                "score": 0.9970580339431763,
+                "score": 0.996147632598877,
                 "index": 65,
                 "char_start": 311,
                 "char_end": 313
@@ -655,7 +655,7 @@
             {
                 "word": "Protein\n",
                 "entity": "O",
-                "score": 0.9999455213546753,
+                "score": 0.9999592304229736,
                 "index": 66,
                 "char_start": 314,
                 "char_end": 322
@@ -663,7 +663,7 @@
             {
                 "word": "Incl.20g ",
                 "entity": "O",
-                "score": 0.9981412887573242,
+                "score": 0.668770432472229,
                 "index": 67,
                 "char_start": 323,
                 "char_end": 332
@@ -671,7 +671,7 @@
             {
                 "word": "Added ",
                 "entity": "O",
-                "score": 0.9998053908348083,
+                "score": 0.9999569654464722,
                 "index": 68,
                 "char_start": 332,
                 "char_end": 338
@@ -679,7 +679,7 @@
             {
                 "word": "Sugars\n",
                 "entity": "O",
-                "score": 0.999913215637207,
+                "score": 0.999958872795105,
                 "index": 69,
                 "char_start": 338,
                 "char_end": 345
@@ -687,7 +687,7 @@
             {
                 "word": "Not ",
                 "entity": "O",
-                "score": 0.9999587535858154,
+                "score": 0.9999611377716064,
                 "index": 70,
                 "char_start": 346,
                 "char_end": 350
@@ -695,7 +695,7 @@
             {
                 "word": "a ",
                 "entity": "O",
-                "score": 0.9999582767486572,
+                "score": 0.9999631643295288,
                 "index": 71,
                 "char_start": 350,
                 "char_end": 352
@@ -703,7 +703,7 @@
             {
                 "word": "significant ",
                 "entity": "O",
-                "score": 0.9999567270278931,
+                "score": 0.9999632835388184,
                 "index": 72,
                 "char_start": 352,
                 "char_end": 364
@@ -711,7 +711,7 @@
             {
                 "word": "source ",
                 "entity": "O",
-                "score": 0.9999628067016602,
+                "score": 0.9999614953994751,
                 "index": 73,
                 "char_start": 364,
                 "char_end": 371
@@ -719,7 +719,7 @@
             {
                 "word": "of ",
                 "entity": "O",
-                "score": 0.999958872795105,
+                "score": 0.9999656677246094,
                 "index": 74,
                 "char_start": 371,
                 "char_end": 374
@@ -727,7 +727,7 @@
             {
                 "word": "vit.D",
                 "entity": "O",
-                "score": 0.9999606609344482,
+                "score": 0.9999666213989258,
                 "index": 75,
                 "char_start": 374,
                 "char_end": 379
@@ -735,7 +735,7 @@
             {
                 "word": ", ",
                 "entity": "O",
-                "score": 0.9999630451202393,
+                "score": 0.9999659061431885,
                 "index": 76,
                 "char_start": 379,
                 "char_end": 381
@@ -743,7 +743,7 @@
             {
                 "word": "calcium",
                 "entity": "O",
-                "score": 0.9999585151672363,
+                "score": 0.999962329864502,
                 "index": 77,
                 "char_start": 381,
                 "char_end": 388
@@ -751,7 +751,7 @@
             {
                 "word": ", ",
                 "entity": "O",
-                "score": 0.9999624490737915,
+                "score": 0.999964714050293,
                 "index": 78,
                 "char_start": 388,
                 "char_end": 390
@@ -759,7 +759,7 @@
             {
                 "word": "iron",
                 "entity": "O",
-                "score": 0.9999574422836304,
+                "score": 0.9999595880508423,
                 "index": 79,
                 "char_start": 390,
                 "char_end": 394
@@ -767,7 +767,7 @@
             {
                 "word": ", ",
                 "entity": "O",
-                "score": 0.9999624490737915,
+                "score": 0.9999653100967407,
                 "index": 80,
                 "char_start": 394,
                 "char_end": 396
@@ -775,7 +775,7 @@
             {
                 "word": "potassium\n",
                 "entity": "O",
-                "score": 0.9999560117721558,
+                "score": 0.9999610185623169,
                 "index": 81,
                 "char_start": 396,
                 "char_end": 406
@@ -783,7 +783,7 @@
             {
                 "word": "Cookie\n",
                 "entity": "O",
-                "score": 0.9999603033065796,
+                "score": 0.999962329864502,
                 "index": 82,
                 "char_start": 407,
                 "char_end": 414
@@ -791,7 +791,7 @@
             {
                 "word": "PRODUCT ",
                 "entity": "O",
-                "score": 0.9999626874923706,
+                "score": 0.9999653100967407,
                 "index": 83,
                 "char_start": 415,
                 "char_end": 423
@@ -799,7 +799,7 @@
             {
                 "word": "OF ",
                 "entity": "O",
-                "score": 0.9999632835388184,
+                "score": 0.9999655485153198,
                 "index": 84,
                 "char_start": 423,
                 "char_end": 426
@@ -807,7 +807,7 @@
             {
                 "word": "JAPAN\n",
                 "entity": "O",
-                "score": 0.999963641166687,
+                "score": 0.9999653100967407,
                 "index": 85,
                 "char_start": 426,
                 "char_end": 432
@@ -815,7 +815,7 @@
             {
                 "word": "Ingredients",
                 "entity": "O",
-                "score": 0.9999630451202393,
+                "score": 0.9999656677246094,
                 "index": 86,
                 "char_start": 433,
                 "char_end": 444
@@ -823,7 +823,7 @@
             {
                 "word": ": ",
                 "entity": "O",
-                "score": 0.9999649524688721,
+                "score": 0.9999667406082153,
                 "index": 87,
                 "char_start": 444,
                 "char_end": 446
@@ -831,7 +831,7 @@
             {
                 "word": "Wheat ",
                 "entity": "O",
-                "score": 0.9999629259109497,
+                "score": 0.9999656677246094,
                 "index": 88,
                 "char_start": 446,
                 "char_end": 452
@@ -839,7 +839,7 @@
             {
                 "word": "Flour",
                 "entity": "O",
-                "score": 0.9999639987945557,
+                "score": 0.9999662637710571,
                 "index": 89,
                 "char_start": 452,
                 "char_end": 457
@@ -847,7 +847,7 @@
             {
                 "word": ", ",
                 "entity": "O",
-                "score": 0.999963641166687,
+                "score": 0.9999657869338989,
                 "index": 90,
                 "char_start": 457,
                 "char_end": 459
@@ -855,7 +855,7 @@
             {
                 "word": "Sugar",
                 "entity": "O",
-                "score": 0.9999630451202393,
+                "score": 0.9999659061431885,
                 "index": 91,
                 "char_start": 459,
                 "char_end": 464
@@ -863,7 +863,7 @@
             {
                 "word": ", ",
                 "entity": "O",
-                "score": 0.9999632835388184,
+                "score": 0.9999653100967407,
                 "index": 92,
                 "char_start": 464,
                 "char_end": 466
@@ -871,7 +871,7 @@
             {
                 "word": "Palm ",
                 "entity": "O",
-                "score": 0.999962329864502,
+                "score": 0.999966025352478,
                 "index": 93,
                 "char_start": 466,
                 "char_end": 471
@@ -879,7 +879,7 @@
             {
                 "word": "Oil",
                 "entity": "O",
-                "score": 0.9999631643295288,
+                "score": 0.9999657869338989,
                 "index": 94,
                 "char_start": 471,
                 "char_end": 474
@@ -887,7 +887,7 @@
             {
                 "word": ", ",
                 "entity": "O",
-                "score": 0.9999637603759766,
+                "score": 0.9999659061431885,
                 "index": 95,
                 "char_start": 474,
                 "char_end": 476
@@ -895,7 +895,7 @@
             {
                 "word": "Egg ",
                 "entity": "O",
-                "score": 0.9999626874923706,
+                "score": 0.9999656677246094,
                 "index": 96,
                 "char_start": 476,
                 "char_end": 480
@@ -903,7 +903,7 @@
             {
                 "word": "white",
                 "entity": "O",
-                "score": 0.9999635219573975,
+                "score": 0.9999661445617676,
                 "index": 97,
                 "char_start": 480,
                 "char_end": 485
@@ -911,7 +911,7 @@
             {
                 "word": ", ",
                 "entity": "O",
-                "score": 0.9999644756317139,
+                "score": 0.9999666213989258,
                 "index": 98,
                 "char_start": 485,
                 "char_end": 487
@@ -919,7 +919,7 @@
             {
                 "word": "Emulsifier ",
                 "entity": "O",
-                "score": 0.9999645948410034,
+                "score": 0.9999665021896362,
                 "index": 99,
                 "char_start": 487,
                 "char_end": 498
@@ -927,7 +927,7 @@
             {
                 "word": "(",
                 "entity": "O",
-                "score": 0.9999637603759766,
+                "score": 0.9999651908874512,
                 "index": 100,
                 "char_start": 498,
                 "char_end": 499
@@ -935,7 +935,7 @@
             {
                 "word": "soy",
                 "entity": "O",
-                "score": 0.9999642372131348,
+                "score": 0.9999661445617676,
                 "index": 101,
                 "char_start": 499,
                 "char_end": 502
@@ -943,7 +943,7 @@
             {
                 "word": ")",
                 "entity": "O",
-                "score": 0.9999639987945557,
+                "score": 0.9999650716781616,
                 "index": 102,
                 "char_start": 502,
                 "char_end": 503
@@ -951,7 +951,7 @@
             {
                 "word": ".Contains ",
                 "entity": "O",
-                "score": 0.999962329864502,
+                "score": 0.9999654293060303,
                 "index": 103,
                 "char_start": 503,
                 "char_end": 513
@@ -959,7 +959,7 @@
             {
                 "word": "wheat",
                 "entity": "O",
-                "score": 0.9999628067016602,
+                "score": 0.9999645948410034,
                 "index": 104,
                 "char_start": 513,
                 "char_end": 518
@@ -967,7 +967,7 @@
             {
                 "word": ", ",
                 "entity": "O",
-                "score": 0.9999632835388184,
+                "score": 0.9999651908874512,
                 "index": 105,
                 "char_start": 518,
                 "char_end": 520
@@ -975,7 +975,7 @@
             {
                 "word": "soy",
                 "entity": "O",
-                "score": 0.9999642372131348,
+                "score": 0.999966025352478,
                 "index": 106,
                 "char_start": 520,
                 "char_end": 523
@@ -983,7 +983,7 @@
             {
                 "word": ", ",
                 "entity": "O",
-                "score": 0.9999643564224243,
+                "score": 0.9999654293060303,
                 "index": 107,
                 "char_start": 523,
                 "char_end": 525
@@ -991,7 +991,7 @@
             {
                 "word": "egg ",
                 "entity": "O",
-                "score": 0.9999642372131348,
+                "score": 0.9999648332595825,
                 "index": 108,
                 "char_start": 525,
                 "char_end": 529
@@ -999,7 +999,7 @@
             {
                 "word": "Made ",
                 "entity": "O",
-                "score": 0.9999638795852661,
+                "score": 0.9999651908874512,
                 "index": 109,
                 "char_start": 529,
                 "char_end": 534
@@ -1007,7 +1007,7 @@
             {
                 "word": "in ",
                 "entity": "O",
-                "score": 0.999964714050293,
+                "score": 0.9999659061431885,
                 "index": 110,
                 "char_start": 534,
                 "char_end": 537
@@ -1015,7 +1015,7 @@
             {
                 "word": "a ",
                 "entity": "O",
-                "score": 0.9999643564224243,
+                "score": 0.9999657869338989,
                 "index": 111,
                 "char_start": 537,
                 "char_end": 539
@@ -1023,7 +1023,7 @@
             {
                 "word": "facility ",
                 "entity": "O",
-                "score": 0.9999643564224243,
+                "score": 0.9999661445617676,
                 "index": 112,
                 "char_start": 539,
                 "char_end": 548
@@ -1031,7 +1031,7 @@
             {
                 "word": "that ",
                 "entity": "O",
-                "score": 0.999964714050293,
+                "score": 0.9999662637710571,
                 "index": 113,
                 "char_start": 548,
                 "char_end": 553
@@ -1039,7 +1039,7 @@
             {
                 "word": "uses ",
                 "entity": "O",
-                "score": 0.9999637603759766,
+                "score": 0.9999648332595825,
                 "index": 114,
                 "char_start": 553,
                 "char_end": 558
@@ -1047,7 +1047,7 @@
             {
                 "word": "Milk ",
                 "entity": "O",
-                "score": 0.9999632835388184,
+                "score": 0.9999659061431885,
                 "index": 115,
                 "char_start": 558,
                 "char_end": 563
@@ -1055,7 +1055,7 @@
             {
                 "word": "Contains ",
                 "entity": "O",
-                "score": 0.9999613761901855,
+                "score": 0.9999648332595825,
                 "index": 116,
                 "char_start": 563,
                 "char_end": 572
@@ -1063,7 +1063,7 @@
             {
                 "word": "Bioengineered ",
                 "entity": "O",
-                "score": 0.9999613761901855,
+                "score": 0.9999648332595825,
                 "index": 117,
                 "char_start": 572,
                 "char_end": 586
@@ -1071,7 +1071,7 @@
             {
                 "word": "food ",
                 "entity": "O",
-                "score": 0.9999631643295288,
+                "score": 0.999966025352478,
                 "index": 118,
                 "char_start": 586,
                 "char_end": 591
@@ -1079,7 +1079,7 @@
             {
                 "word": "ingredients",
                 "entity": "O",
-                "score": 0.999961256980896,
+                "score": 0.9999653100967407,
                 "index": 119,
                 "char_start": 591,
                 "char_end": 602
@@ -1087,7 +1087,7 @@
             {
                 "word": ". ",
                 "entity": "O",
-                "score": 0.9999631643295288,
+                "score": 0.9999657869338989,
                 "index": 120,
                 "char_start": 602,
                 "char_end": 604
@@ -1095,7 +1095,7 @@
             {
                 "word": "NET ",
                 "entity": "O",
-                "score": 0.9999626874923706,
+                "score": 0.9999654293060303,
                 "index": 121,
                 "char_start": 604,
                 "char_end": 608
@@ -1103,7 +1103,7 @@
             {
                 "word": "WT",
                 "entity": "O",
-                "score": 0.9999635219573975,
+                "score": 0.9999665021896362,
                 "index": 122,
                 "char_start": 608,
                 "char_end": 610
@@ -1111,7 +1111,7 @@
             {
                 "word": ": ",
                 "entity": "O",
-                "score": 0.9999631643295288,
+                "score": 0.9999654293060303,
                 "index": 123,
                 "char_start": 610,
                 "char_end": 612
@@ -1119,7 +1119,7 @@
             {
                 "word": "4.11 ",
                 "entity": "O",
-                "score": 0.9999464750289917,
+                "score": 0.9999605417251587,
                 "index": 124,
                 "char_start": 612,
                 "char_end": 617
@@ -1127,7 +1127,7 @@
             {
                 "word": "oz",
                 "entity": "O",
-                "score": 0.9999597072601318,
+                "score": 0.9999638795852661,
                 "index": 125,
                 "char_start": 617,
                 "char_end": 619
@@ -1135,7 +1135,7 @@
             {
                 "word": ". ",
                 "entity": "O",
-                "score": 0.9999632835388184,
+                "score": 0.9999657869338989,
                 "index": 126,
                 "char_start": 619,
                 "char_end": 621
@@ -1143,7 +1143,7 @@
             {
                 "word": "(",
                 "entity": "O",
-                "score": 0.9999611377716064,
+                "score": 0.9999644756317139,
                 "index": 127,
                 "char_start": 621,
                 "char_end": 622
@@ -1151,7 +1151,7 @@
             {
                 "word": "117g",
                 "entity": "O",
-                "score": 0.9999368190765381,
+                "score": 0.9999567270278931,
                 "index": 128,
                 "char_start": 622,
                 "char_end": 626
@@ -1159,7 +1159,7 @@
             {
                 "word": ") ",
                 "entity": "O",
-                "score": 0.9999606609344482,
+                "score": 0.9999651908874512,
                 "index": 129,
                 "char_start": 626,
                 "char_end": 628
@@ -1167,7 +1167,7 @@
             {
                 "word": "Distributed ",
                 "entity": "O",
-                "score": 0.9999622106552124,
+                "score": 0.999966025352478,
                 "index": 130,
                 "char_start": 628,
                 "char_end": 640
@@ -1175,7 +1175,7 @@
             {
                 "word": "by",
                 "entity": "O",
-                "score": 0.9999624490737915,
+                "score": 0.9999663829803467,
                 "index": 131,
                 "char_start": 640,
                 "char_end": 642
@@ -1183,7 +1183,7 @@
             {
                 "word": ": ",
                 "entity": "O",
-                "score": 0.9999635219573975,
+                "score": 0.9999654293060303,
                 "index": 132,
                 "char_start": 642,
                 "char_end": 644
@@ -1191,7 +1191,7 @@
             {
                 "word": "T",
                 "entity": "O",
-                "score": 0.9999604225158691,
+                "score": 0.9999650716781616,
                 "index": 133,
                 "char_start": 644,
                 "char_end": 645
@@ -1199,7 +1199,7 @@
             {
                 "word": "-",
                 "entity": "O",
-                "score": 0.9999624490737915,
+                "score": 0.9999659061431885,
                 "index": 134,
                 "char_start": 645,
                 "char_end": 646
@@ -1207,7 +1207,7 @@
             {
                 "word": "West ",
                 "entity": "O",
-                "score": 0.9999605417251587,
+                "score": 0.9999649524688721,
                 "index": 135,
                 "char_start": 646,
                 "char_end": 651
@@ -1215,7 +1215,7 @@
             {
                 "word": "Inc. ",
                 "entity": "O",
-                "score": 0.999962329864502,
+                "score": 0.9999655485153198,
                 "index": 136,
                 "char_start": 651,
                 "char_end": 656
@@ -1223,7 +1223,7 @@
             {
                 "word": "Gardena",
                 "entity": "O",
-                "score": 0.9999583959579468,
+                "score": 0.9999649524688721,
                 "index": 137,
                 "char_start": 656,
                 "char_end": 663
@@ -1231,7 +1231,7 @@
             {
                 "word": ", ",
                 "entity": "O",
-                "score": 0.9999629259109497,
+                "score": 0.9999651908874512,
                 "index": 138,
                 "char_start": 663,
                 "char_end": 665
@@ -1239,7 +1239,7 @@
             {
                 "word": "CA ",
                 "entity": "O",
-                "score": 0.9999585151672363,
+                "score": 0.9999654293060303,
                 "index": 139,
                 "char_start": 665,
                 "char_end": 668
@@ -1247,7 +1247,7 @@
             {
                 "word": "90248 ",
                 "entity": "O",
-                "score": 0.9999524354934692,
+                "score": 0.9999656677246094,
                 "index": 140,
                 "char_start": 668,
                 "char_end": 674
@@ -1255,7 +1255,7 @@
             {
                 "word": "YB ",
                 "entity": "O",
-                "score": 0.9999641180038452,
+                "score": 0.9999672174453735,
                 "index": 141,
                 "char_start": 674,
                 "char_end": 677
@@ -1263,7 +1263,7 @@
             {
                 "word": "130266 ",
                 "entity": "O",
-                "score": 0.9999616146087646,
+                "score": 0.9999663829803467,
                 "index": 142,
                 "char_start": 677,
                 "char_end": 684
@@ -1271,7 +1271,7 @@
             {
                 "word": "YBC ",
                 "entity": "O",
-                "score": 0.9999637603759766,
+                "score": 0.9999668598175049,
                 "index": 143,
                 "char_start": 684,
                 "char_end": 688
@@ -1279,7 +1279,7 @@
             {
                 "word": "LANGUE ",
                 "entity": "O",
-                "score": 0.9999629259109497,
+                "score": 0.9999674558639526,
                 "index": 144,
                 "char_start": 688,
                 "char_end": 695
@@ -1287,7 +1287,7 @@
             {
                 "word": "DE ",
                 "entity": "O",
-                "score": 0.9999638795852661,
+                "score": 0.9999675750732422,
                 "index": 145,
                 "char_start": 695,
                 "char_end": 698
@@ -1295,7 +1295,7 @@
             {
                 "word": "CHAT ",
                 "entity": "O",
-                "score": 0.9999641180038452,
+                "score": 0.9999672174453735,
                 "index": 146,
                 "char_start": 698,
                 "char_end": 703
@@ -1303,7 +1303,7 @@
             {
                 "word": "AWARNING",
                 "entity": "O",
-                "score": 0.9999632835388184,
+                "score": 0.9999669790267944,
                 "index": 147,
                 "char_start": 703,
                 "char_end": 711
@@ -1311,7 +1311,7 @@
             {
                 "word": ": ",
                 "entity": "O",
-                "score": 0.999963641166687,
+                "score": 0.9999666213989258,
                 "index": 148,
                 "char_start": 711,
                 "char_end": 713
@@ -1319,7 +1319,7 @@
             {
                 "word": "Consuming ",
                 "entity": "O",
-                "score": 0.9999616146087646,
+                "score": 0.9999662637710571,
                 "index": 149,
                 "char_start": 713,
                 "char_end": 723
@@ -1327,7 +1327,7 @@
             {
                 "word": "this ",
                 "entity": "O",
-                "score": 0.9999619722366333,
+                "score": 0.9999663829803467,
                 "index": 150,
                 "char_start": 723,
                 "char_end": 728
@@ -1335,7 +1335,7 @@
             {
                 "word": "products ",
                 "entity": "O",
-                "score": 0.9999607801437378,
+                "score": 0.9999644756317139,
                 "index": 151,
                 "char_start": 728,
                 "char_end": 737
@@ -1343,7 +1343,7 @@
             {
                 "word": "can ",
                 "entity": "O",
-                "score": 0.999961256980896,
+                "score": 0.9999661445617676,
                 "index": 152,
                 "char_start": 737,
                 "char_end": 741
@@ -1351,7 +1351,7 @@
             {
                 "word": "expose ",
                 "entity": "O",
-                "score": 0.9999606609344482,
+                "score": 0.9999649524688721,
                 "index": 153,
                 "char_start": 741,
                 "char_end": 748
@@ -1359,7 +1359,7 @@
             {
                 "word": "you ",
                 "entity": "O",
-                "score": 0.9999610185623169,
+                "score": 0.9999656677246094,
                 "index": 154,
                 "char_start": 748,
                 "char_end": 752
@@ -1367,7 +1367,7 @@
             {
                 "word": "to ",
                 "entity": "O",
-                "score": 0.9999603033065796,
+                "score": 0.9999648332595825,
                 "index": 155,
                 "char_start": 752,
                 "char_end": 755
@@ -1375,7 +1375,7 @@
             {
                 "word": "chemicals ",
                 "entity": "O",
-                "score": 0.9999589920043945,
+                "score": 0.9999624490737915,
                 "index": 156,
                 "char_start": 755,
                 "char_end": 765
@@ -1383,7 +1383,7 @@
             {
                 "word": "including ",
                 "entity": "O",
-                "score": 0.9999592304229736,
+                "score": 0.9999635219573975,
                 "index": 157,
                 "char_start": 765,
                 "char_end": 775
@@ -1391,7 +1391,7 @@
             {
                 "word": "Acrylamide",
                 "entity": "O",
-                "score": 0.9999595880508423,
+                "score": 0.9999614953994751,
                 "index": 158,
                 "char_start": 775,
                 "char_end": 785
@@ -1399,7 +1399,7 @@
             {
                 "word": ", ",
                 "entity": "O",
-                "score": 0.9999616146087646,
+                "score": 0.9999643564224243,
                 "index": 159,
                 "char_start": 785,
                 "char_end": 787
@@ -1407,7 +1407,7 @@
             {
                 "word": "Lead",
                 "entity": "O",
-                "score": 0.9999574422836304,
+                "score": 0.9999611377716064,
                 "index": 160,
                 "char_start": 787,
                 "char_end": 791
@@ -1415,7 +1415,7 @@
             {
                 "word": ", ",
                 "entity": "O",
-                "score": 0.9999619722366333,
+                "score": 0.9999645948410034,
                 "index": 161,
                 "char_start": 791,
                 "char_end": 793
@@ -1423,7 +1423,7 @@
             {
                 "word": "Cadmium ",
                 "entity": "O",
-                "score": 0.9999594688415527,
+                "score": 0.9999567270278931,
                 "index": 162,
                 "char_start": 793,
                 "char_end": 801
@@ -1431,7 +1431,7 @@
             {
                 "word": "and ",
                 "entity": "O",
-                "score": 0.9999610185623169,
+                "score": 0.9999642372131348,
                 "index": 163,
                 "char_start": 801,
                 "char_end": 805
@@ -1439,7 +1439,7 @@
             {
                 "word": "Arsenic ",
                 "entity": "O",
-                "score": 0.9999614953994751,
+                "score": 0.9999630451202393,
                 "index": 164,
                 "char_start": 805,
                 "char_end": 813
@@ -1447,7 +1447,7 @@
             {
                 "word": "which ",
                 "entity": "O",
-                "score": 0.9999611377716064,
+                "score": 0.9999648332595825,
                 "index": 165,
                 "char_start": 813,
                 "char_end": 819
@@ -1455,7 +1455,7 @@
             {
                 "word": "are ",
                 "entity": "O",
-                "score": 0.9999604225158691,
+                "score": 0.9999632835388184,
                 "index": 166,
                 "char_start": 819,
                 "char_end": 823
@@ -1463,7 +1463,7 @@
             {
                 "word": "known ",
                 "entity": "O",
-                "score": 0.9999605417251587,
+                "score": 0.9999624490737915,
                 "index": 167,
                 "char_start": 823,
                 "char_end": 829
@@ -1471,7 +1471,7 @@
             {
                 "word": "to ",
                 "entity": "O",
-                "score": 0.9999614953994751,
+                "score": 0.9999626874923706,
                 "index": 168,
                 "char_start": 829,
                 "char_end": 832
@@ -1479,7 +1479,7 @@
             {
                 "word": "the ",
                 "entity": "O",
-                "score": 0.9999610185623169,
+                "score": 0.9999616146087646,
                 "index": 169,
                 "char_start": 832,
                 "char_end": 836
@@ -1487,7 +1487,7 @@
             {
                 "word": "State ",
                 "entity": "O",
-                "score": 0.9999599456787109,
+                "score": 0.9999617338180542,
                 "index": 170,
                 "char_start": 836,
                 "char_end": 842
@@ -1495,7 +1495,7 @@
             {
                 "word": "of ",
                 "entity": "O",
-                "score": 0.9999606609344482,
+                "score": 0.999962329864502,
                 "index": 171,
                 "char_start": 842,
                 "char_end": 845
@@ -1503,7 +1503,7 @@
             {
                 "word": "California ",
                 "entity": "O",
-                "score": 0.9999568462371826,
+                "score": 0.9999607801437378,
                 "index": 172,
                 "char_start": 845,
                 "char_end": 856
@@ -1511,7 +1511,7 @@
             {
                 "word": "to ",
                 "entity": "O",
-                "score": 0.9999593496322632,
+                "score": 0.9999632835388184,
                 "index": 173,
                 "char_start": 856,
                 "char_end": 859
@@ -1519,7 +1519,7 @@
             {
                 "word": "cause ",
                 "entity": "O",
-                "score": 0.9999594688415527,
+                "score": 0.9999632835388184,
                 "index": 174,
                 "char_start": 859,
                 "char_end": 865
@@ -1527,7 +1527,7 @@
             {
                 "word": "cancer",
                 "entity": "O",
-                "score": 0.9999566078186035,
+                "score": 0.9999599456787109,
                 "index": 175,
                 "char_start": 865,
                 "char_end": 871
@@ -1535,7 +1535,7 @@
             {
                 "word": ", ",
                 "entity": "O",
-                "score": 0.999961256980896,
+                "score": 0.9999654293060303,
                 "index": 176,
                 "char_start": 871,
                 "char_end": 873
@@ -1543,7 +1543,7 @@
             {
                 "word": "birth ",
                 "entity": "O",
-                "score": 0.9999593496322632,
+                "score": 0.9999619722366333,
                 "index": 177,
                 "char_start": 873,
                 "char_end": 879
@@ -1551,7 +1551,7 @@
             {
                 "word": "defects ",
                 "entity": "O",
-                "score": 0.99996018409729,
+                "score": 0.9999616146087646,
                 "index": 178,
                 "char_start": 879,
                 "char_end": 887
@@ -1559,7 +1559,7 @@
             {
                 "word": "or ",
                 "entity": "O",
-                "score": 0.9999613761901855,
+                "score": 0.9999643564224243,
                 "index": 179,
                 "char_start": 887,
                 "char_end": 890
@@ -1567,7 +1567,7 @@
             {
                 "word": "other ",
                 "entity": "O",
-                "score": 0.9999597072601318,
+                "score": 0.9999616146087646,
                 "index": 180,
                 "char_start": 890,
                 "char_end": 896
@@ -1575,7 +1575,7 @@
             {
                 "word": "reproductive ",
                 "entity": "O",
-                "score": 0.9999579191207886,
+                "score": 0.9999606609344482,
                 "index": 181,
                 "char_start": 896,
                 "char_end": 909
@@ -1583,7 +1583,7 @@
             {
                 "word": "harm",
                 "entity": "O",
-                "score": 0.9999626874923706,
+                "score": 0.9999645948410034,
                 "index": 182,
                 "char_start": 909,
                 "char_end": 913
@@ -1591,7 +1591,7 @@
             {
                 "word": ". ",
                 "entity": "O",
-                "score": 0.9999630451202393,
+                "score": 0.9999648332595825,
                 "index": 183,
                 "char_start": 913,
                 "char_end": 915
@@ -1599,7 +1599,7 @@
             {
                 "word": "\u52a0\u5dde ",
                 "entity": "O",
-                "score": 0.9999632835388184,
+                "score": 0.9999657869338989,
                 "index": 184,
                 "char_start": 915,
                 "char_end": 918
@@ -1607,7 +1607,7 @@
             {
                 "word": "Pro65 ",
                 "entity": "O",
-                "score": 0.9999628067016602,
+                "score": 0.9999666213989258,
                 "index": 185,
                 "char_start": 918,
                 "char_end": 924
@@ -1615,7 +1615,7 @@
             {
                 "word": "\u8b66\u544a",
                 "entity": "O",
-                "score": 0.9999642372131348,
+                "score": 0.9999672174453735,
                 "index": 186,
                 "char_start": 924,
                 "char_end": 926
@@ -1623,7 +1623,7 @@
             {
                 "word": ":\n",
                 "entity": "O",
-                "score": 0.9999631643295288,
+                "score": 0.9999667406082153,
                 "index": 187,
                 "char_start": 926,
                 "char_end": 928
@@ -1635,7 +1635,7 @@
                 "words": [
                     "58.5g"
                 ],
-                "score": 0.9985449314117432,
+                "score": 0.9987491369247437,
                 "start": 18,
                 "end": 19,
                 "char_start": 106,
@@ -1646,7 +1646,7 @@
                 "words": [
                     "310\n"
                 ],
-                "score": 0.9981741905212402,
+                "score": 0.9976129531860352,
                 "start": 21,
                 "end": 22,
                 "char_start": 115,
@@ -1658,7 +1658,7 @@
                     "15.7 ",
                     "g\n"
                 ],
-                "score": 0.997393012046814,
+                "score": 0.9983221888542175,
                 "start": 26,
                 "end": 28,
                 "char_start": 136,
@@ -1670,7 +1670,7 @@
                     "0 ",
                     "g\n"
                 ],
-                "score": 0.9974648952484131,
+                "score": 0.9964990615844727,
                 "start": 32,
                 "end": 34,
                 "char_start": 164,
@@ -1681,7 +1681,7 @@
                 "words": [
                     "Og\n"
                 ],
-                "score": 0.9854249358177185,
+                "score": 0.9854259490966797,
                 "start": 38,
                 "end": 39,
                 "char_start": 184,
@@ -1692,7 +1692,7 @@
                 "words": [
                     "Omg\n"
                 ],
-                "score": 0.9888084530830383,
+                "score": 0.9858530759811401,
                 "start": 40,
                 "end": 41,
                 "char_start": 201,
@@ -1703,7 +1703,7 @@
                 "words": [
                     "16mg\n"
                 ],
-                "score": 0.9897588491439819,
+                "score": 0.9882262349128723,
                 "start": 44,
                 "end": 45,
                 "char_start": 218,
@@ -1715,7 +1715,7 @@
                     "39 ",
                     "g\n"
                 ],
-                "score": 0.9943812489509583,
+                "score": 0.9979863166809082,
                 "start": 49,
                 "end": 51,
                 "char_start": 248,
@@ -1727,7 +1727,7 @@
                     "0 ",
                     "g\n"
                 ],
-                "score": 0.9943338632583618,
+                "score": 0.9956098198890686,
                 "start": 55,
                 "end": 57,
                 "char_start": 274,
@@ -1738,7 +1738,7 @@
                 "words": [
                     "20g\n"
                 ],
-                "score": 0.99689120054245,
+                "score": 0.9973345994949341,
                 "start": 61,
                 "end": 62,
                 "char_start": 297,
@@ -1750,7 +1750,7 @@
                     "3.1 ",
                     "g\n"
                 ],
-                "score": 0.9976000189781189,
+                "score": 0.9973764419555664,
                 "start": 64,
                 "end": 66,
                 "char_start": 307,
@@ -1763,7 +1763,7 @@
                 "text": "58.5g",
                 "value": "58.5g",
                 "unit": null,
-                "score": 0.9985449314117432,
+                "score": 0.9987491369247437,
                 "start": 18,
                 "end": 19,
                 "char_start": 106,
@@ -1775,7 +1775,7 @@
                 "text": "310",
                 "value": "310",
                 "unit": "kcal",
-                "score": 0.9981741905212402,
+                "score": 0.9976129531860352,
                 "start": 21,
                 "end": 22,
                 "char_start": 115,
@@ -1787,7 +1787,7 @@
                 "text": "15.7 g",
                 "value": "15.7",
                 "unit": "g",
-                "score": 0.997393012046814,
+                "score": 0.9983221888542175,
                 "start": 26,
                 "end": 28,
                 "char_start": 136,
@@ -1799,7 +1799,7 @@
                 "text": "0 g",
                 "value": "0",
                 "unit": "g",
-                "score": 0.9974648952484131,
+                "score": 0.9964990615844727,
                 "start": 32,
                 "end": 34,
                 "char_start": 164,
@@ -1811,7 +1811,7 @@
                 "text": "Og",
                 "value": "0",
                 "unit": "g",
-                "score": 0.9854249358177185,
+                "score": 0.9854259490966797,
                 "start": 38,
                 "end": 39,
                 "char_start": 184,
@@ -1823,7 +1823,7 @@
                 "text": "Omg",
                 "value": "0",
                 "unit": "mg",
-                "score": 0.9888084530830383,
+                "score": 0.9858530759811401,
                 "start": 40,
                 "end": 41,
                 "char_start": 201,
@@ -1835,7 +1835,7 @@
                 "text": "16mg",
                 "value": "16",
                 "unit": "mg",
-                "score": 0.9897588491439819,
+                "score": 0.9882262349128723,
                 "start": 44,
                 "end": 45,
                 "char_start": 218,
@@ -1847,7 +1847,7 @@
                 "text": "39 g",
                 "value": "39",
                 "unit": "g",
-                "score": 0.9943812489509583,
+                "score": 0.9979863166809082,
                 "start": 49,
                 "end": 51,
                 "char_start": 248,
@@ -1859,7 +1859,7 @@
                 "text": "0 g",
                 "value": "0",
                 "unit": "g",
-                "score": 0.9943338632583618,
+                "score": 0.9956098198890686,
                 "start": 55,
                 "end": 57,
                 "char_start": 274,
@@ -1871,7 +1871,7 @@
                 "text": "20g",
                 "value": "20",
                 "unit": "g",
-                "score": 0.99689120054245,
+                "score": 0.9973345994949341,
                 "start": 61,
                 "end": 62,
                 "char_start": 297,
@@ -1883,7 +1883,7 @@
                 "text": "3.1 g",
                 "value": "3.1",
                 "unit": "g",
-                "score": 0.9976000189781189,
+                "score": 0.9973764419555664,
                 "start": 64,
                 "end": 66,
                 "char_start": 307,
